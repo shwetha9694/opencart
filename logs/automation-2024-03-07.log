@@ -1,0 +1,51 @@
+17:00:25.607 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:00:25.666 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:00:25.723 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:00:25.731 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:00:25.732 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:00:25.748 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+17:00:25.786 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+17:00:38.188 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+17:00:50.705 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+17:00:50.716 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+17:01:02.508 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+17:01:02.537 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+17:01:14.288 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+17:01:14.333 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+11:34:57.749 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\opencartproject\grouping.xml"
+11:34:58.656 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\opencartproject\grouping.xml
+
+11:35:13.273 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+11:35:13.274 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+11:35:13.575 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+11:35:15.572 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+11:35:15.572 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+11:35:20.816 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+11:35:20.877 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+11:35:20.890 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
+11:35:20.890 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+11:35:26.317 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+11:35:26.317 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+11:35:26.514 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+11:35:27.463 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+11:35:27.533 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+11:35:28.945 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+11:35:29.044 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+11:37:48.913 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\opencartproject\final.xml"
+11:37:49.707 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\opencartproject\final.xml
+
+11:37:56.362 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+11:37:56.363 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+11:37:56.592 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+11:37:57.704 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+11:37:57.706 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+11:38:01.864 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+11:38:01.919 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+11:38:01.924 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
+11:38:01.924 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+11:38:06.368 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+11:38:06.368 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+11:38:06.500 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+11:38:07.437 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
